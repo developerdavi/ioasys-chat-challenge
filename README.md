@@ -38,7 +38,7 @@ Esses itens não são obrigatórios, porém desejados.
 - Um usuário pode estar em mais de uma sala ao mesmo tempo
 - A sala possuirá um moderador, que será o usuário quem a criou
 - O moderador poderá remover outros usuários a qualquer momento
-- Não há necessidade de criar interfaces
+- Não há necessidade de criar interfaces (UI)
 
 # 🕵🏻‍♂️ Itens a serem avaliados
 
