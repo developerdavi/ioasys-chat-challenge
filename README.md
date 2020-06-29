@@ -1,7 +1,3 @@
-# Sobre
-
-Você terá que desenvolver um serviço para ser incorporado a um sistema e esse serviço será responsável pelo chat entre usuários e as conversas são em **tempo real**
-
 # 🏗 O que fazer?
 
 - Você deve realizar um fork deste repositório e, ao finalizar, enviar o link do seu repositório para a nossa equipe. Lembre-se, NÃO é necessário criar um Pull Request para isso, nós iremos avaliar e retornar por email o resultado do seu teste.
