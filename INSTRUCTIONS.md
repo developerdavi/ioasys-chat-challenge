@@ -11,3 +11,6 @@
 # How to run it
 - dev: `yarn dev:back` to start the Core API
 - production: `docker-compose up -d` to start everything
+
+# API Routes
+See `postman_collection.json`
