@@ -4,32 +4,32 @@
 
 # 🚨 Requisitos
 
-- A API deverá ser construída em **NodeJS**
-- Implementar autenticação e deverá seguir o padrão **JWT**, lembrando que o token a ser recebido deverá ser no formato **Bearer**
-- Seu projeto terá que ser implementado em **ExpressJS** ou **SailsJS**
-- Para a comunicação com o banco de dados utilize algum **ORM**/**ODM**
+- [x] A API deverá ser construída em **NodeJS**
+- [x] Implementar autenticação e deverá seguir o padrão **JWT**, lembrando que o token a ser recebido deverá ser no formato **Bearer**
+- [x] Seu projeto terá que ser implementado em **ExpressJS** ou **SailsJS**
+- [x] Para a comunicação com o banco de dados utilize algum **ORM**/**ODM**
 - **Bancos relacionais permitidos**:
   - MySQL
   - MariaDB
   - Postgre
 - **Bancos não relacionais permitidos**:
-  - MongoDB
-- Sua API deverá seguir os padrões Rest na construção das rotas e retornos
-- Sua API deverá conter a collection/variáveis do postman ou algum endpoint da documentação em openapi para a realização do teste
-- Você deverá implementar microsserviço
-- Utilizar docker para a separação das APIs
-- Utilizar Docker Compose para a orquestração dos serviços
-- Suas APIs deverão ser independentes, porém elas poderão se comunicar
-- Instruções para execução do projeto
-- Migrations para a criação das tabelas do banco relacional
+  - [x] MongoDB
+- [x] Sua API deverá seguir os padrões Rest na construção das rotas e retornos
+- [x] Sua API deverá conter a collection/variáveis do postman ou algum endpoint da documentação em openapi para a realização do teste
+- [-] Você deverá implementar microsserviço
+- [-] Utilizar docker para a separação das APIs
+- [-] Utilizar Docker Compose para a orquestração dos serviços
+- [-] Suas APIs deverão ser independentes, porém elas poderão se comunicar
+- [ ] Instruções para execução do projeto
+- [ ] Migrations para a criação das tabelas do banco relacional
 
 # 🎁 Extra
 
 Esses itens não são obrigatórios, porém desejados.
 
-- Testes unitários
-- Linter
-- Code Formater
+- [ ] Testes unitários
+- [x] Linter
+- [ ] Code Formater
 
 # 🖥 O que desenvolver?
 

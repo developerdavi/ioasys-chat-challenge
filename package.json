@@ -1,0 +1,14 @@
+{
+  "name": "ioasys-chat-challenge",
+  "version": "1.0.0",
+  "description": "ioasys job chat code challenge",
+  "main": "backend/src/index.js",
+  "repository": "https://github.com/developerdavi/ioasys-chat-challenge",
+  "author": "Davi Rodrigues <developer.davi@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev:back": "backend/node_modules/.bin/nodemon src/index.js"
+  },
+  "dependencies": {}
+}
